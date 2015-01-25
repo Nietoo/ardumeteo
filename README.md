@@ -1,8 +1,8 @@
-ardumeteo
+Ardumeteo
 ======================
-Mini estación meteorológica, desarrollada en Arduino, formada 3 sensores: temperatura, humedad y luminosidad. Los datos obtenidos de los sensores se muestran una pantalla LCD.
+Mini estación meteorológica, desarrollada en Arduino, formada por 3 sensores: temperatura, humedad y luminosidad. 
 
-En el LCD se muestran en la primera linea las temperaturas del sensor analógico y del digital. En la segunda línea se muestran la humedad relativa y la luminosidad.
+Los datos obtenidos de los sensores se muestran una pantalla LCD. En la primera linea se muestran las temperaturas del sensor analógico y del digital. En la segunda línea se muestran la humedad relativa y la luminosidad.
 
 ###Dependencias
 - [DHT sensor library] 
